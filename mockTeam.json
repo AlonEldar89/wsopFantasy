@@ -1,0 +1,39 @@
+{
+  "teamName": "AboudiTime",
+  "manager": "Alon Eldar",
+  "captain": "Uri Reichenstein",
+  "groups": [
+    {
+      "groupName": "HiRollers",
+      "players": [
+        { "name": "Nacho Barbero", "points": 0 },
+        { "name": "Nick Shulman", "points": 0 },
+        { "name": "Adrian Mateos", "points": 0 }
+      ]
+    },
+    {
+      "groupName": "Israelis",
+      "players": [
+        { "name": "Uri Reichenstein", "points": 0 },
+        { "name": "Ido Aboudi", "points": 0 },
+        { "name": "Shahar Haran", "points": 0 }
+      ]
+    },
+    {
+      "groupName": "Midstakes",
+      "players": [
+        { "name": "Jermey Becker", "points": 0 },
+        { "name": "Ian Matakis", "points": 0 },
+        { "name": "Nick Marchington", "points": 0 }
+      ]
+    },
+    {
+      "groupName": "Mixed",
+      "players": [
+        { "name": "Patrick Leonard", "points": 0 },
+        { "name": "Ryan Lang", "points": 0 },
+        { "name": "Sean Deeb", "points": 0 }
+      ]
+    }
+  ]
+} 
